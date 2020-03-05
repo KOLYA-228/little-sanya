@@ -14,7 +14,7 @@ namespace ConsoleApp65
             foreach (var item in result)
             {
                 Console.WriteLine(item);
-                Console.WriteLine("хлеб вкусный");
+                ConsoleWriteLine("хлеб вкусный");
             }
         }
     }
